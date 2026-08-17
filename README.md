@@ -80,6 +80,6 @@ The largest retailer and region drive substantial revenue, while smaller segment
 
 ### 👤 Author
 
-**[Your Name]**
+**Rashi Wase**
 
 *Data Analytics • Excel • Business Intelligence*
